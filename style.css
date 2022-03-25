@@ -1,0 +1,21 @@
+* {
+    background-color: bisque;
+    font-family: "Lucida Console", Helvetica, sans-serif;
+    text-align: center;
+}
+
+.heading-gif {
+    width: 250px;
+    height: auto;
+}
+
+.heading-img {
+    width: 150px;
+    height: auto;
+    text-align: center;
+}
+
+.img {
+    width: 300px;
+    height: auto;
+}
